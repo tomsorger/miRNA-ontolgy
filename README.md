@@ -1,1 +1,1 @@
-# miRNA-ontolgy
+# miRNA
